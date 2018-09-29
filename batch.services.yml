@@ -1,0 +1,3 @@
+commands:
+  queue.queue_batch_command:
+    class: Hunter\batch\Command\QueueBatchCmd

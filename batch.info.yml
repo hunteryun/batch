@@ -1,0 +1,7 @@
+name: Batch
+type: module
+description: Batch api for HunterPHP.
+core: 1.x
+package: Hunter
+dependencies:
+  - queue  
